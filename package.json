@@ -4,7 +4,6 @@
   "description": "sending sms with infobip api",
   "main": "index.js",
   "scripts": {
-    "test": "INFOBIPKEY=RGlsb29hcHA6RGlsb28kMDE= mocha  test/index.js"
   },
   "keywords": [
     "diloo",
